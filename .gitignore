@@ -1,0 +1,15 @@
+*~
+*.aux
+*.bcf
+*.log
+*.dvi
+*.toc
+*.nav
+*.run.xml
+*.snm
+*.out
+*.bbl
+*.blg
+*.lof
+__pycache__
+env
