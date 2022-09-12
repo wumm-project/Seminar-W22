@@ -1,6 +1,6 @@
 # Winter Term 2022/23
 
-* Seminar: tu/di 9:15-10:45 online (starts on October 10, 2022)
+* Seminar: tu/di 9:15-10:45 online (starts on October 24, 2022)
 
 The Seminar takes place synchronously online in the BBB room BIS.SIM
 <https://meet.uni-leipzig.de/b/gra-w2c-fhz-qnp>.

@@ -147,4 +147,4 @@ Linear and Non-Linear Trends of Evolution
 
 ## Seminar schedule (to be added)
 
-- 10.10. Kick-off Meeting. Introduction to the seminar topic.  (Gräbe)
+- 24.10. Kick-off Meeting. Introduction to the seminar topic.  (Gräbe)
